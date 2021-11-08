@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/celerative-react-lazy-loading/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/celerative-react-lazy-loading/static/js/main.eb46c48f.chunk.js",
+    "main.js.map": "/celerative-react-lazy-loading/static/js/main.eb46c48f.chunk.js.map",
+    "runtime-main.js": "/celerative-react-lazy-loading/static/js/runtime-main.85942e62.js",
+    "runtime-main.js.map": "/celerative-react-lazy-loading/static/js/runtime-main.85942e62.js.map",
+    "static/js/2.7fc2e143.chunk.js": "/celerative-react-lazy-loading/static/js/2.7fc2e143.chunk.js",
+    "static/js/2.7fc2e143.chunk.js.map": "/celerative-react-lazy-loading/static/js/2.7fc2e143.chunk.js.map",
+    "static/js/3.b5a30d1e.chunk.js": "/celerative-react-lazy-loading/static/js/3.b5a30d1e.chunk.js",
+    "static/js/3.b5a30d1e.chunk.js.map": "/celerative-react-lazy-loading/static/js/3.b5a30d1e.chunk.js.map",
+    "index.html": "/celerative-react-lazy-loading/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/celerative-react-lazy-loading/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.7fc2e143.chunk.js.LICENSE.txt": "/celerative-react-lazy-loading/static/js/2.7fc2e143.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85942e62.js",
+    "static/js/2.7fc2e143.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.eb46c48f.chunk.js"
+  ]
+}
