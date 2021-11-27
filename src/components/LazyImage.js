@@ -10,12 +10,18 @@ const LazyImage = ({ image }) => {
 
   return (
     <div
-      ref={ref}
       style={{
         minHeight: "200px",
       }}
     >
-      <img alt="" src={isVisible && image} height="200px" width="200px"/>
+      <img
+        alt=""
+        ref={ref}
+        src={isVisible && image}
+        data-src={!isVisible && image}
+        height="200px"
+        width="200px"
+      />
     </div>
   );
 };
